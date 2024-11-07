@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 
 // Replace with your network credentials
-const char* ssid = "AP184A";
-const char* password = "marcia2518";
+const char* ssid = "";
+const char* password = "";
 #define RELAY_PORT 2
 
 void setup() {
